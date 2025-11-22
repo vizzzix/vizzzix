@@ -28,4 +28,5 @@ Backend:     Node.js · Vercel · Supabase
 #### 🔗 Links
 
 [![Arc Treasury](https://img.shields.io/badge/Arc_Treasury-Live-00d4aa?style=flat-square)](https://arctreasury.biz)
+[![Twitter](https://img.shields.io/badge/Twitter-@claimpilot-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/claimpilot)
 [![GitHub](https://img.shields.io/badge/GitHub-vizzzix-181717?style=flat-square&logo=github)](https://github.com/vizzzix)
