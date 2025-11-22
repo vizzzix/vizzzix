@@ -25,14 +25,6 @@ Backend:     Node.js · Vercel · Supabase
 
 ---
 
-#### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vizzzix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vizzzix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
----
-
 #### 🔗 Links
 
 [![Arc Treasury](https://img.shields.io/badge/Arc_Treasury-Live-00d4aa?style=flat-square)](https://arctreasury.biz)
