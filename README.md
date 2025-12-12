@@ -29,7 +29,11 @@ Contracts:   Solidity · Hardhat · OpenZeppelin
 Backend:     Node.js · Vercel · Supabase
 ```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vizzzix&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,solidity,nodejs,vercel,supabase&theme=dark" />
+  </a>
+</p>
 
 ---
 
